@@ -5,13 +5,13 @@
 
 # while abs(busqueda - respuesta**2) >= epsilon:
 #     respuesta += paso
-
+#     print(paso)
 
 # if abs(busqueda - respuesta**2) >= epsilon:
 #     print(f'{busqueda} no tiene raiz cuadrada')
 # else:
 #     print(f'La raiz cuadrada de {busqueda} es {respuesta}')       
-     #Aproximación de soluciones !!!!!
+#      Aproximación de soluciones !!!!!
 
 busqueda = int(input('Di un número ' ))
 epsiolon= 0.001
